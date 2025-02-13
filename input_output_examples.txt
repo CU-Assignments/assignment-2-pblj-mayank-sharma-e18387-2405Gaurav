@@ -16,7 +16,7 @@ Price: 75000.0
 
 ###Sample Output:
 
-Library Management System by Pushkar[22bcs17250]
+Library Management System by GAURAV[22BCS16013]
 
 Fiction Book Details:
 Title: 1984
@@ -51,7 +51,7 @@ Price: 550.0
 
 ##PROBLEM 3
 ###Sample Output:
-Student Information System by pushkar[22bcs17250]
+Student Information System by GAURAV[22BCS16013]
 
 Menu:
 1. Add Student
